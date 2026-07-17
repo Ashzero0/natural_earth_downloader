@@ -61,10 +61,6 @@ Plugin code: GNU GPL v2 or later.
 
 Natural Earth vector and raster datasets are public domain. Attribution is not required, but the plugin identifies Natural Earth as the data source. This plugin is independent and is not affiliated with or endorsed by Natural Earth or NACIS.
 
-## Before publishing to the official QGIS plugin repository
-
-Replace the placeholder author email, homepage, repository and issue-tracker values in `metadata.txt` with real project details. Add automated QGIS integration tests and verify every catalogue URL against the current Natural Earth release.
-
 ## Known prototype limitations
 
 - Vector datasets only; raster support is not included yet.
