@@ -22,7 +22,7 @@ Installable QGIS plugin prototype for browsing and downloading several Natural E
 
 1. In QGIS, open **Plugins → Manage and Install Plugins**.
 2. Open **Install from ZIP**.
-3. Select `natural_earth_downloader_v1.zip`.
+3. Select `natural_earth_downloader.zip`.
 4. Accept the experimental-plugin warning if QGIS displays one.
 5. Open **Vector → Natural Earth Downloader** or use the toolbar button.
 
