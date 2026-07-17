@@ -1,0 +1,17 @@
+[general]
+name=Natural Earth Downloader
+description=Browse and download multiple Natural Earth vector datasets directly into QGIS.
+about=Natural Earth Downloader provides a clean searchable catalogue for Natural Earth vector data. Select several datasets, choose GeoPackage, GeoJSON, ESRI Shapefile, or temporary QGIS layers, and download them as one batch. Downloads use QGIS network settings and are cached locally. Natural Earth data are public domain. This is an independent plugin and is not affiliated with or endorsed by Natural Earth or NACIS.
+version=1
+author=ash2o
+email=ash.devmaps@email.com
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+category=Vector
+icon=resources/icon.png
+experimental=False
+deprecated=False
+tags=natural earth,download,vector,geopackage,geojson,shapefile,basemap
+homepage=https://github.com/Ashzero0/natural_earth_downloader
+repository=https://github.com/Ashzero0/natural_earth_downloader
+tracker=https://github.com/Ashzero0/natural_earth_downloadernatural-earth-downloader/issues
